@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBettingGame", "TheBettingGame\TheBettingGame.csproj", "{ABD1240E-16A5-4625-A767-92A5A25CE849}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F2DB4E12-2483-46D8-8B7E-8AEE317F8C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD1240E-16A5-4625-A767-92A5A25CE849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD1240E-16A5-4625-A767-92A5A25CE849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD1240E-16A5-4625-A767-92A5A25CE849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD1240E-16A5-4625-A767-92A5A25CE849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A46988-F537-46BF-A1DD-D9F3D10F6E12}
+	EndGlobalSection
+EndGlobal
